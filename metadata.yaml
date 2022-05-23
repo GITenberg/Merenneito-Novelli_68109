@@ -1,0 +1,24 @@
+_repo: Merenneito-Novelli_68109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hiidenheimo, Sofia Elisabet (Elli)
+    gutenberg_agent_id: '54604'
+    url: http://www.gutenberg.org/2009/agents/54604
+description: ''
+gutenberg_issued: '2022-05-17'
+identifiers:
+  gutenberg: '68109'
+language: fi
+pgterms:marc905: 20220424074401sorainen
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: Finland :Kust.Oy Kirja,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Merenneito: Novelli'
+url: http://www.gutenberg.org/ebooks/68109
