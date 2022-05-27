@@ -1,11 +1,16 @@
 _repo: Merenneito-Novelli_68109
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hiidenheimo, Sofia Elisabet (Elli)
     gutenberg_agent_id: '54604'
     url: http://www.gutenberg.org/2009/agents/54604
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68109#Merenneito-Novelli
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68109'
